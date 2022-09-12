@@ -1,0 +1,35 @@
+【按顺序自上而下】
+左：虚拟手柄【vjoy】的键位名称。右：对应功能。
+2P纯键盘，切记不能和1P键位冲突！
+Left：向左【平移】
+Right:向右【平移】
+Up：前进
+Down：后退
+Z Axis - ：开火
+Z Axis + ：推开敌人
+Z Rotation - ：镜头上移【向上看】
+Z Rotation + ：镜头下移【向下看】
+Slider - ：镜头左转【向左看】
+Slider + ：镜头右转【向右看】
+Pov Left：无
+Pov Right：无
+Pov Up：无
+Pov Down：无
+Button 1：跳跃
+Button 2：装填弹药
+Button3：使用键【使用按钮，机关。开门。捡武器、物品等......】
+Button 4：切换到上次使用过的武器
+Button 5：蹲下
+Button 6：镜头转到身后【快速向后转，建议熟练使用】
+Button 7：切换到炸弹【燃烧瓶、土制炸弹、胆汁罐】
+Button 8：切换到急救包
+Button 9：切换到下一个物品
+Button 10：切换到上一个物品
+Button 11：开、关手电筒
+Button 12：【狙击类武器】开镜
+Button 13：静步慢走
+Button 14：切换到止痛药或者肾上腺素
+Button 15：无
+Button 16：无
+
+剩下的不重要，没绑。2P要多玩几把或者去训练类地图熟悉按键。

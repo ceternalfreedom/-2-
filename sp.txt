@@ -1,0 +1,7 @@
+sk_autoaim_mode 2
+
+ss_enable 1
+
+ss_splitmode 1
+
+connect_splitscreen localhost 2
